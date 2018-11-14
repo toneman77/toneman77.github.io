@@ -1,6 +1,6 @@
 # deck building
 | command | what it does |
-|--|--|	h
+|--|--|
 | fmap _guildmate_| show _guildmate_'s map of possible combos |
 | cmap _guildmate_| show _guildmate_'s combo map (no duplicates) |
 | map _guildmate_ | analyze _guildmate_'s deck |
@@ -16,6 +16,5 @@
 | asdfas asdf | lorem ipsum abc |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjEzMzY1MTYsLTEyMzU4MjYzMDRdfQ
-==
+eyJoaXN0b3J5IjpbMTkyMjgyOTI5OCwtMTIzNTgyNjMwNF19
 -->
