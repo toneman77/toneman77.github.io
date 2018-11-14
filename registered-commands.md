@@ -45,11 +45,12 @@ The commands that unlock the full potential
 | research _show_/_trait_/_legchar_ | shows missing research filtered by show and/or trait and/or leg(for legendaries) or char(acter cards) |
 | mif _show/trait_ | **m**y **i**nventory **f**map. fmap of your inventory filtered by show and/or trait [example](TODO) |
 | mcm | **m**y **c**ombo **m**astery: shows all bought combo masteries |
-
+### filters
+available filters:
 ## examples
 TODO
 
 > [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyMTYzODQ2XX0=
+eyJoaXN0b3J5IjpbLTEyNDY0NjQzMTAsODkyMTYzODQ2XX0=
 -->
