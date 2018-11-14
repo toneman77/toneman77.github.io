@@ -42,11 +42,18 @@ Shows the full combo map - including duplicates - for the currently active deck 
 ![enter image description here](https://i.imgur.com/OJxRPbf.png)
 [back](#top)
 
-## analyze _playername_<a name="analyze"></a>
+## cmap _playername_<a name="cmap"></a>
+same as fmap but with duplicate of the same card filtered out.
+
+[back](#top)
+
+## stat _playername_<a name="stat"></a>
+
+Randomly draws 10,000 hands and gives you statistics about that combos drawn. 61.91% sturdy means that 61.91% of the hands drawn had a combo with the sturdy skill. 88.58% of the time, a combo could be made. 70.38% of the time, a PC appeared in the opening hand.
 
 [back](#top)
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyMDk0MTYyLC03NDQ1Mjc4OTZdfQ==
+eyJoaXN0b3J5IjpbLTE0MDg2Njk3MzEsLTc0NDUyNzg5Nl19
 -->
