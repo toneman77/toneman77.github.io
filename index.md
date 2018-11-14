@@ -4,8 +4,8 @@
 |command|result  |
 |--|--|
 | **docs** | link to the helpful documentation|
-|deck _guildmate_ | shows _guildmate_'s deck [more](deckbuilding.md)|
-|fmap _guildmate_ | shows _guildmate_'s character and item cards in a map excluding PCs|
+|deck _guildmate_ | shows _guildmate_'s deck [more](deck-building)|
+|fmap _guildmate_ | shows _guildmate_'s character and item cards in a map excluding PCs |
 | cc _combo_ | shows which cards make _combo_ (e.g. _cc viking peter_)|
 |ss| shows the current stats for the current siege event|
 |ssp| picture version of _ss_|
@@ -16,6 +16,6 @@
 |lookup _guildname_| gives you information of the guild _guildname_|
 |whois _playername_ | displays information about the player _playername_|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2Mzc2ODQ0MywxNDk0MjU1NjE0LC0yMD
-YwMTM3NTEzXX0=
+eyJoaXN0b3J5IjpbLTYyNTU0MjI1OSwxOTYzNzY4NDQzLDE0OT
+QyNTU2MTQsLTIwNjAxMzc1MTNdfQ==
 -->
