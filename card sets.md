@@ -13,7 +13,8 @@
 
 ## examples
 ### in
-
+|command|what it does|
+|---|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1NjE5NzU3LDYzMDc1NTUyOV19
+eyJoaXN0b3J5IjpbMTU5ODk3NTI0Myw2MzA3NTU1MjldfQ==
 -->
