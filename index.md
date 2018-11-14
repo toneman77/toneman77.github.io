@@ -5,7 +5,7 @@
 |--|--|
 |deck _guildmate_ |shows _guildmate_'s deck  |
 |fmap _guildmate_ | shows _guildmate_'s character and item cards in a map excluding PCs|
-|
+
 
 # Files
 
