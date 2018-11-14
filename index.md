@@ -18,9 +18,19 @@
 | whois _playername_ | displays information about the player _playername_ [more](looking-up-stuff) |
 
 
-since 
+since i dont have a menu set up so far:
+[registered commands](registered-commands)
+[costs](costs)
+[card sets](card-sets)
+[comb](costs)
+[costs](costs)
+[costs](costs)
+[costs](costs)
+[costs](costs)
+[costs](costs)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MzA4NDU3NywtMTIwOTkzMjMwOSw1OT
-cwNjMyOTMsMTkyNDIyOTAzMiwxMjgyODM1MDMwLDE5NjM3Njg0
-NDMsMTQ5NDI1NTYxNCwtMjA2MDEzNzUxM119
+eyJoaXN0b3J5IjpbMTk2MDIwNzEzLC0xMjA5OTMyMzA5LDU5Nz
+A2MzI5MywxOTI0MjI5MDMyLDEyODI4MzUwMzAsMTk2Mzc2ODQ0
+MywxNDk0MjU1NjE0LC0yMDYwMTM3NTEzXX0=
 -->
