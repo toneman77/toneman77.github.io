@@ -11,11 +11,10 @@
 | char _guildmate_    | TODO |
 | puck _guildmate_    | TODO |
 
-| a | b |
-|--|--|
-| asdfas asdf | lorem ipsum xoxo |
 
+
+
+[back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzE1ODkyNDYsLTEyMzU4MjYzMDRdfQ
-==
+eyJoaXN0b3J5IjpbLTc2MjE3MDM5NiwtMTIzNTgyNjMwNF19
 -->
