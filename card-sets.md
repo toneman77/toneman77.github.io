@@ -30,6 +30,9 @@
 |pc punch | all PC cards with the **punch** skill |
 |pc bb cripple| all PC cards of the show **Bob's burgers** with the skill **cripple**|
 |pc leech sturdy koth | all PC cards of the show **king of the hill** with the skill **sturdy** and the skill **leech**|
+
+
+[back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTg1MDM1OF19
+eyJoaXN0b3J5IjpbNDUzODY1OTM2LDEyNDE4NTAzNThdfQ==
 -->
