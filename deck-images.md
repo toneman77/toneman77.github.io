@@ -43,11 +43,13 @@ Deck analysis for the currently active deck of play _playername_. Gives number o
 [back to top](#top)
 
 ## fmap _playername_<a name="fmap"></a>
+
 Shows the full combo map - including duplicates - for the currently active deck for the player _playername_. Puts items across the **top**, chars down the **left**, and combos made in the middle. **White space implies no combo can be made**.
 ![enter image description here](https://i.imgur.com/OJxRPbf.png)
 [back to top](#top)
 
 ## cmap _playername_<a name="cmap"></a>
+
 same as fmap but with duplicate of the same card filtered out.
 
 ¯\_(ツ)_/¯
@@ -113,9 +115,11 @@ Randomly draws 10,000 hands and gives you statistics about that combos drawn. 61
 
 [back to top](#top)
 
+Hi 
+
 [back](index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwODY2NDIsLTE2NTUxMDg3MTQsLTc0ND
-UyNzg5Nl19
+eyJoaXN0b3J5IjpbNTU2NDg3NTQ1LC0xNjU1MTA4NzE0LC03ND
+Q1Mjc4OTZdfQ==
 -->
