@@ -24,11 +24,10 @@ The user ID is shown in game when you click on your profile. This ID must belong
 This name should be yours. If not, the person who added you has typed your name wrong. Have them re-add you.
 
 * Access level 3
-This name should be yours. If not, you've registered the wrong info. Be careful using 'konglogin' or appeternal.com/convert. Since the multiple account issue, some Kong accounts have multiple AT accounts. When you register, the first value MUST match your in-game player ID. If it doesn't, then it is wrong.
+This name should be yours. If not, you've registered the wrong info. **Be careful** using 'konglogin' or appeternal.com/convert. Since the multiple account issue, some Kong accounts have multiple AT accounts. When you register, the first value MUST match your in-game player ID. If it doesn't, then it is wrong.
 
-<
-
-If konglogin or eternal's app don't work, you may be forced into using the packet sniffer in your browser. Refer to the last entry under 'how to register' in this doc for more information.
+  **! ATTENTION !**
+If konglogin or eternal's app don't work, you may be forced into using the packet sniffer in your browser. Refer to the last entry under 'how to register' [here TODO]() in this doc for more information.
 
 Guild Name: TheGuild of Calamitous Intent
 
@@ -45,5 +44,6 @@ Level 2 commands will work based on the room. Level 3 commands will work based o
 
 > [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNTY0NTYwNSwtMTY1MjM1NjUxMF19
+eyJoaXN0b3J5IjpbLTEwMDY0NDY4MDAsLTE2NTIzNTY1MTBdfQ
+==
 -->
