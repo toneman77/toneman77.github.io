@@ -1,8 +1,9 @@
 # deck building
+
 | command | what it does |
-|--|--|
-| fmap _guildmate_| show _guildmate_'s map of possible combos |
-| cmap _guildmate_| show _guildmate_'s combo map (no duplicates) |
+| -- | -- |
+| fmap _guildmate_ | show _guildmate_'s map of possible combos |
+| cmap _guildmate_ | show _guildmate_'s combo map (no duplicates) |
 | map _guildmate_ | analyze _guildmate_'s deck |
 | stat _guildmate_ | TODO |
 | deck _guildmate_ | TODO |
@@ -12,9 +13,8 @@
 
 | a | b |
 |--|--|
-| asdfas asdf | lorem ipsum abcde |
+| asdfas asdf | lorem ipsum xoxo |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDI0ODE3OTMsLTEyMzU4MjYzMDRdfQ
-==
+eyJoaXN0b3J5IjpbMTA3OTM5Njg0OCwtMTIzNTgyNjMwNF19
 -->
