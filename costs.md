@@ -1,4 +1,4 @@
-# cost
+# TL;DR
 ## per guild $5/m
 This method allows everyone within the guild to use every command, whether registered or added. Zbot checks to see if someone within the guild has purchased this and runs commands if it's true.
 
@@ -17,24 +17,22 @@ Zbot is a companion app which relies on Animation Throwdown. This may come as a 
 
 Caveat: You can't spam AT servers. Each lookup request sends 50 requests to AT servers. Now, if 10 people happen to be looking up guilds at the same time, they are effectively spamming 500 requests to AT. Sometimes AT doesn't like it and sends back a "please try that again in a minute" response. Zbot doesn't say anything. All servers involved are functioning properly, but it may appear broken to you. Wait 10 seconds and try again. That's the best I can offer atm.
   
-Tech Support
+## Tech Support
 
-If you need help with something, you can find me in this line group:
+If you need help with something, you can find me in **[this](https://line.me/R/ti/g/NPCNoCjlR9)** line group.
 
-[https://line.me/R/ti/g/NPCNoCjlR9](https://www.google.com/url?q=https://line.me/R/ti/g/NPCNoCjlR9&sa=D&ust=1542209942724000&usg=AFQjCNG7lmkUCDTv5dYTJr3CPtakCnOi-g)
-
-How to sign up
+## How to sign up
 
 There is a donate button built into the bot under 'donate'. Alternatively, paypal.me/zbot. If USD is not your currency, then just use google for currency translation. 5 USD in XXX where XXX is your currency. Whatever pops up should be accurate enough.
 
-Guild
+## Guild
 
 In the special instructions, there is a spot for you to type something. Please include your guild's name and in-game ID or add code. The guild name should be enough. However, guild names are not unique and AT's searching function is atrocious so it's possible for me to apply it to the wrong guild inadvertently.
 
-Player
+## Player
 
 In the special instructions, there is a spot for you to type something. Please include your add code. If you have alts, you may include their add codes here. I'm putting a limit of 4 here or else people will suddenly have 500 alts lol
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzM0OTAwNiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE1NzUzMjgwODUsNzMwOTk4MTE2XX0=
 -->
