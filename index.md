@@ -17,6 +17,7 @@
 | lookup _guildname_ 	| gives you information of the guild _guildname_ [more](looking-up-stuff) |
 | whois _playername_ 	| displays information about the player _playername_ [more](looking-up-stuff) |
 
+xo
 
 since i dont have a menu set up so far:
  * [registered commands](registered-commands)
@@ -35,8 +36,8 @@ since i dont have a menu set up so far:
  * [troubleshoot](troubleshoot)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTc0NzU5LDE4NzA5NDAwMTcsLTI4OT
-g2ODA1MywtMTIwOTkzMjMwOSw1OTcwNjMyOTMsMTkyNDIyOTAz
-MiwxMjgyODM1MDMwLDE5NjM3Njg0NDMsMTQ5NDI1NTYxNCwtMj
-A2MDEzNzUxM119
+eyJoaXN0b3J5IjpbMTA4MjYyNjI4OCwxODcwOTQwMDE3LC0yOD
+k4NjgwNTMsLTEyMDk5MzIzMDksNTk3MDYzMjkzLDE5MjQyMjkw
+MzIsMTI4MjgzNTAzMCwxOTYzNzY4NDQzLDE0OTQyNTU2MTQsLT
+IwNjAxMzc1MTNdfQ==
 -->
