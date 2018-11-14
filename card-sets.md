@@ -1,4 +1,5 @@
 # card sets
+
 | command | what it does |
 |---|---|
 | leg stones    | a pic of the cards you can pull from the legendary stone pool                      |
@@ -14,6 +15,7 @@
 ## examples
 
 ### in<a name="exin"></a>
+
 | command | what it does |
 |---|---|
 | in futurama          | all cards of the show **futurama**                                 |
@@ -23,6 +25,7 @@
 | in leech sturdy koth | all cards of the show **king of the hill** with the skill **sturdy** and the skill **leech** |
 
 ### pc<a name="expc"></a>
+
 | command | what it does |
 |---|---|
 | pc futurama          | all PC cards of the show **futurama** 									|
@@ -34,6 +37,6 @@
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTY4MjczMiw0NTM4NjU5MzYsMTI0MT
-g1MDM1OF19
+eyJoaXN0b3J5IjpbOTExODA2ODEwLDE3ODU2ODI3MzIsNDUzOD
+Y1OTM2LDEyNDE4NTAzNThdfQ==
 -->
