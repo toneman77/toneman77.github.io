@@ -17,9 +17,10 @@
 | lookup _guildname_ | gives you information of the guild _guildname_ [more](looking-up-stuff) |
 | whois _playername_ | displays information about the player _playername_ [more](looking-up-stuff) |
 
-xoxo
+
+since 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk5MzIzMDksNTk3MDYzMjkzLDE5Mj
-QyMjkwMzIsMTI4MjgzNTAzMCwxOTYzNzY4NDQzLDE0OTQyNTU2
-MTQsLTIwNjAxMzc1MTNdfQ==
+eyJoaXN0b3J5IjpbMjA3MzA4NDU3NywtMTIwOTkzMjMwOSw1OT
+cwNjMyOTMsMTkyNDIyOTAzMiwxMjgyODM1MDMwLDE5NjM3Njg0
+NDMsMTQ5NDI1NTYxNCwtMjA2MDEzNzUxM119
 -->
