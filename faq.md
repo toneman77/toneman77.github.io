@@ -36,20 +36,16 @@
 
 >There are two very different systems in play here: Add codes and registry.
 
-    * Add Codes:
-
+* **Add Codes:**
 If someone has added you with a code, then you can access your deck data through their account. Fmap yourname tells the person who added you to start a practice battle against you. From this practice battle, your deck information can be acquired. The account cannot fight you and magically see your inventory, research information, combo mastery, decks 1-5, etc... ONLY ACTIVE DECK INFO
 
-Registry:
-
+ * **Registry:**
 If you've registered, then you have provided your personal account key. With this key, zbot can see everything. All decks, inventory, rumble/siege info, anything you can see in-game, zbot can see as well. There is no need to start a practice battle with the account because the deck info can be accessed directly.
-
-----------------------------------------------
 
 Special thanks to Matheux{SupAH-L} for writing this FAQ for me.
 
 
-> Written with [StackEdit](https://stackedit.io/).
+[back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTc5NDc2NSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTM3MjkyMjkwMyw3MzA5OTgxMTZdfQ==
 -->
