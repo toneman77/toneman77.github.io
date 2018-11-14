@@ -27,10 +27,11 @@ This name should be yours. If not, the person who added you has typed your name 
 This name should be yours. If not, you've registered the wrong info. **Be careful** using 'konglogin' or appeternal.com/convert. Since the multiple account issue, some Kong accounts have multiple AT accounts. When you register, the first value MUST match your in-game player ID. If it doesn't, then it is wrong.
 
   **! ATTENTION !**
-If konglogin or eternal's app don't work, you may be forced into using the packet sniffer in your browser. Refer to the last entry under 'how to register' [here TODO]() in this doc for more information.
+If konglogin or eternal's app don't work, you may be forced into using the packet sniffer in your browser. Refer to the last entry under 'how to register' [here TODO](TODO) in this doc for more information.
 
-Guild Name: TheGuild of Calamitous Intent
+>Guild Name: TheGuild of Calamitous Intent
 
+* Access level 0-2
 This guild should be yours. If not, give your code to a registered person within your guild.
 
 If this says null or is not your guild, type 'update guild'. If it says you're not in a guild and you know you are, then you've registered the wrong info. Read the tip above this for more info.
@@ -44,6 +45,5 @@ Level 2 commands will work based on the room. Level 3 commands will work based o
 
 > [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDY0NDY4MDAsLTE2NTIzNTY1MTBdfQ
-==
+eyJoaXN0b3J5IjpbMzE1NDQxNDA5LC0xNjUyMzU2NTEwXX0=
 -->
