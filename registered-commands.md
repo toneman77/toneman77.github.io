@@ -1,5 +1,7 @@
 # registered commands
-xo
+
+xox
+
 ## zbot admin
 
 these are commands mainly used by the person that _manages_ zbot for the whole guild
@@ -67,6 +69,6 @@ TODO
 
 > [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODMwNTQ2MywxNzA2NTQzOTM3LC0yMD
-AyMzQ0MzY2LDg5MjE2Mzg0Nl19
+eyJoaXN0b3J5IjpbMTQ1MDAzODE1LDE3MDY1NDM5MzcsLTIwMD
+IzNDQzNjYsODkyMTYzODQ2XX0=
 -->
