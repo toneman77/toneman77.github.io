@@ -3,14 +3,16 @@
 * [analyze]()
 * [fmap]()
 * [cmap]()
-* []()
+* [stat]()
 
-* deck _playername_
-show the currently active deck of guildmate _playername_
+## deck _playername_
+shows the currently active deck of guildmate _playername_
 
 ![enter image description here](https://i.imgur.com/zblzoSy.png)
 
+TODO²
+
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExMDI2OTkzLC03NDQ1Mjc4OTZdfQ==
+eyJoaXN0b3J5IjpbMTcyMTcyNzI2NiwtNzQ0NTI3ODk2XX0=
 -->
