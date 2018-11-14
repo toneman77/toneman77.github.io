@@ -32,7 +32,10 @@ In the special instructions, there is a spot for you to type something. Please i
 ## Player
 
 In the special instructions, there is a spot for you to type something. Please include your add code. If you have alts, you may include their add codes here. I'm putting a limit of 4 here or else people will suddenly have 500 alts lol
+
+
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzUzMjgwODUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTczMDg0MTY0OSwtMTU3NTMyODA4NSw3Mz
+A5OTgxMTZdfQ==
 -->
