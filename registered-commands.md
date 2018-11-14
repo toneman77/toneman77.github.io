@@ -47,10 +47,12 @@ The commands that unlock the full potential
 | mcm | **m**y **c**ombo **m**astery: shows all bought combo masteries |
 ### filters
 available filters:
+> char leg item pc trait show skill
+
 ## examples
 TODO
 
 > [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDY0NjQzMTAsODkyMTYzODQ2XX0=
+eyJoaXN0b3J5IjpbLTIwMDIzNDQzNjYsODkyMTYzODQ2XX0=
 -->
