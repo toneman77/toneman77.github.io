@@ -19,23 +19,24 @@
 
 
 since i dont have a menu set up so far:
-[registered commands](registered-commands)
-[costs](costs)
-[card sets](card-sets)
-[combo recipes](combo-recipes)
-[deck building](deck-building)
-[how to register](how-to-register)
-[island setup](island-setup)
-[leaderboard](leaderboard)
-[looking up stuff](looking-up-stuff)
-[multiple accounts](multiple-accounts)
-[teh awesum](registered-commands)
-[rumble](rumble)
-[siege](siege)
-[troubleshoot](troubleshoot)
+ * [registered commands](registered-commands)
+ * [costs](costs)
+ * [card sets](card-sets)
+ * [combo recipes](combo-recipes)
+ * [deck building](deck-building)
+ * [how to register](how-to-register)
+ * [island setup](island-setup)
+ * [leaderboard](leaderboard)
+ * [looking up stuff](looking-up-stuff)
+ * [multiple accounts](multiple-accounts)
+ * [teh awesum](registered-commands)
+ * [rumble](rumble)
+ * [siege](siege)
+ * [troubleshoot](troubleshoot)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTg2ODA1MywtMTIwOTkzMjMwOSw1OT
-cwNjMyOTMsMTkyNDIyOTAzMiwxMjgyODM1MDMwLDE5NjM3Njg0
-NDMsMTQ5NDI1NTYxNCwtMjA2MDEzNzUxM119
+eyJoaXN0b3J5IjpbMTg3MDk0MDAxNywtMjg5ODY4MDUzLC0xMj
+A5OTMyMzA5LDU5NzA2MzI5MywxOTI0MjI5MDMyLDEyODI4MzUw
+MzAsMTk2Mzc2ODQ0MywxNDk0MjU1NjE0LC0yMDYwMTM3NTEzXX
+0=
 -->
