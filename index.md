@@ -34,10 +34,11 @@ since i dont have a menu set up so far:
  * [rumble](rumble)
  * [siege](siege)
  * [troubleshoot](troubleshoot)
+ * [FAW](faq)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MjYyNjI4OCwxODcwOTQwMDE3LC0yOD
-k4NjgwNTMsLTEyMDk5MzIzMDksNTk3MDYzMjkzLDE5MjQyMjkw
-MzIsMTI4MjgzNTAzMCwxOTYzNzY4NDQzLDE0OTQyNTU2MTQsLT
-IwNjAxMzc1MTNdfQ==
+eyJoaXN0b3J5IjpbLTE0Mzc2MjU3NjMsMTA4MjYyNjI4OCwxOD
+cwOTQwMDE3LC0yODk4NjgwNTMsLTEyMDk5MzIzMDksNTk3MDYz
+MjkzLDE5MjQyMjkwMzIsMTI4MjgzNTAzMCwxOTYzNzY4NDQzLD
+E0OTQyNTU2MTQsLTIwNjAxMzc1MTNdfQ==
 -->
