@@ -27,10 +27,10 @@
 |---|---|
 |pc futurama | all PC cards of the show **futurama** |
 |pc disguised | all PC cards with the **disguised** trait |
-|pc punch | all PCcards with the **punch** skill |
-|pc bb cripple| all cards of the show **Bob's burgers** with the skill **cripple**|
-|pc leech sturdy koth | all cards of the show **king of the hill** with the skill **sturdy** and the skill **leech**|
+|pc punch | all PC cards with the **punch** skill |
+|pc bb cripple| all PC cards of the show **Bob's burgers** with the skill **cripple**|
+|pc leech sturdy koth | all PC cards of the show **king of the hill** with the skill **sturdy** and the skill **leech**|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjg2MjQzMTAsMTQwODU1NjIxNywtMT
-ExMjQ0OTQ3Niw2MzA3NTU1MjldfQ==
+eyJoaXN0b3J5IjpbMTI0MTg1MDM1OCwxNDA4NTU2MjE3LC0xMT
+EyNDQ5NDc2LDYzMDc1NTUyOV19
 -->
