@@ -12,6 +12,7 @@
 | box map | a map of the cards in the current box|
 
 ## examples
+
 ### in<a name="exin"></a>
 |command|what it does|
 |---|---|
@@ -19,8 +20,17 @@
 |in disguised | all cards with the **disguised** trait |
 |in punch | all cards with the **punch** skill |
 |in bb cripple| all cards of the show **Bob's burgers** with the skill **cripple**|
-|in leech sturdy koth
+|in leech sturdy koth | all cards of the show **king of the hill** with the skill **sturdy** and the skill **leech**|
+
+### pc<a name="expc"></a>
+|command|what it does|
+|---|---|
+|pc futurama | all PC cards of the show **futurama** |
+|pc disguised | all PC cards with the **disguised** trait |
+|pc punch | all PCcards with the **punch** skill |
+|pc bb cripple| all cards of the show **Bob's burgers** with the skill **cripple**|
+|pc leech sturdy koth | all cards of the show **king of the hill** with the skill **sturdy** and the skill **leech**|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTkxMjk1NCwxNDA4NTU2MjE3LC0xMT
-EyNDQ5NDc2LDYzMDc1NTUyOV19
+eyJoaXN0b3J5IjpbLTEyMjg2MjQzMTAsMTQwODU1NjIxNywtMT
+ExMjQ0OTQ3Niw2MzA3NTU1MjldfQ==
 -->
