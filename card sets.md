@@ -6,16 +6,17 @@
 | power stones | a pic of all the PCs you can pull from the PC stone pool |
 | turd _trait_ | a pic of all the cards you can pull with golden turds for the _trait_ trait |
 | nixon | a pic of all the cards you can get from nixons |
-|in _skill_/_trait_/_show_ | all cards filtered by _skill_, _trait_ and/or _show_. example |
-|pc _skill_/_trait_/_show_ | all PCs filtered by _skill_, _trait_ and/or _show_. example |
+|in _skill_/_trait_/_show_ | all cards filtered by _skill_, _trait_ and/or _show_. [example](#exin) |
+|pc _skill_/_trait_/_show_ | all PCs filtered by _skill_, _trait_ and/or _show_. [example](#expc) |
 | bge map new | a map of all the **new** cards of the most current (new) BGE |
 | box map | a map of the cards in the current box|
 
 ## examples
-### in
+### in<a name="exin"></a>
 |command|what it does|
 |---|---|
-|in futurama |
+|in futurama | all futurama
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTI0NDk0NzYsNjMwNzU1NTI5XX0=
+eyJoaXN0b3J5IjpbMTQwODU1NjIxNywtMTExMjQ0OTQ3Niw2Mz
+A3NTU1MjldfQ==
 -->
