@@ -1,5 +1,5 @@
 # look up stuff
-
+x
 ## guild stuff
 
 | command | what it does |
@@ -36,5 +36,6 @@
 
 > [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5MzI2MTAsMTI4MTExNTU1Ml19
+eyJoaXN0b3J5IjpbLTEyNDMyNTQwMDQsMjY5MzI2MTAsMTI4MT
+ExNTU1Ml19
 -->
