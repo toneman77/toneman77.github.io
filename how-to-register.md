@@ -26,7 +26,13 @@ You can access the value through a web browser:
 4. Click on the response that shows up. Look for an entry that says **password=**
 
 -> Your key is 32 characters in length
+### Eternal method
+Eternal (creator of CAT bot) created a handy app to grab this information for you. Follow the link below, and input your login information there, and it will provide the needed values. **Synapse ID** is your user id; **synapse token** is your API key.
+
+Link to it [here](https://www.appeternal.com/CAT/convert)
+
+
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDY0MTcxNjYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTQyMzMyMTA3Miw3MzA5OTgxMTZdfQ==
 -->
