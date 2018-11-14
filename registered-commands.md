@@ -1,19 +1,20 @@
 # registered commands
+xo
 ## zbot admin
 these are commands mainly used by the person that _manages_ zbot for the whole guild
 ### room stuff
-| command | what it does |
+| command 				| what it does |
 | -- | -- |
-| list rooms | list all zbot rooms that are connected to the LINE account |
-| add room _roomname_ | adds this room to the admin's list of rooms  |
-| rem room _id_ | remove the room with the id _id_ from the list of rooms |
+| list rooms 			| list all zbot rooms that are connected to the LINE account 	|
+| add room _roomname_ 	| adds this room to the admin's list of rooms  					|
+| rem room _id_ 		| remove the room with the id _id_ from the list of rooms 		|
 
 ### user stuff
 | command | what it does |
 | -- | -- |
 | add user _add code_ _level_ _ingamename_ | add a user. That user has to generate a code with the [add me TODO](TODO) command before. [example](#exadduser). [about levels TODO](TODO) |
-| list users | lists all users that were added to the room via the **add user** command |
-| rem user _id_ | removes the user with the id _id_ (see above: **list user**) and revokes the access rights |
+| list users 		| lists all users that were added to the room via the **add user** command |
+| rem user _id_ 	| removes the user with the id _id_ (see above: **list user**) and revokes the access rights |
 
 ## utility stuff
 | command | what it does |
@@ -55,6 +56,6 @@ TODO
 
 > [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNzE3ODM4NiwtMjAwMjM0NDM2Niw4OT
+eyJoaXN0b3J5IjpbMTcwNjU0MzkzNywtMjAwMjM0NDM2Niw4OT
 IxNjM4NDZdfQ==
 -->
