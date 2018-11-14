@@ -34,11 +34,12 @@ since i dont have a menu set up so far:
  * [rumble](rumble)
  * [siege](siege)
  * [troubleshoot](troubleshoot)
- * [FAW](faq)
+ * [deck images](deck-images)
+ * [FAQ](faq)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzc2MjU3NjMsMTA4MjYyNjI4OCwxOD
-cwOTQwMDE3LC0yODk4NjgwNTMsLTEyMDk5MzIzMDksNTk3MDYz
-MjkzLDE5MjQyMjkwMzIsMTI4MjgzNTAzMCwxOTYzNzY4NDQzLD
-E0OTQyNTU2MTQsLTIwNjAxMzc1MTNdfQ==
+eyJoaXN0b3J5IjpbODgxNDIzOTA3LDEwODI2MjYyODgsMTg3MD
+k0MDAxNywtMjg5ODY4MDUzLC0xMjA5OTMyMzA5LDU5NzA2MzI5
+MywxOTI0MjI5MDMyLDEyODI4MzUwMzAsMTk2Mzc2ODQ0MywxND
+k0MjU1NjE0LC0yMDYwMTM3NTEzXX0=
 -->
