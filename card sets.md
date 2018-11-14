@@ -17,8 +17,10 @@
 |---|---|
 |in futurama | all cards of the show **futurama** |
 |in disguised | all cards with the **disguised** trait |
-|in punch | all card
+|in punch | all cards with the **punch** skill |
+|in bb cripple| all cards of the show **Bob's burgers** with the skill **cripple**|
+|in leech sturdy koth
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5MzMwNjA1LDE0MDg1NTYyMTcsLTExMT
-I0NDk0NzYsNjMwNzU1NTI5XX0=
+eyJoaXN0b3J5IjpbMjA3MTkxMjk1NCwxNDA4NTU2MjE3LC0xMT
+EyNDQ5NDc2LDYzMDc1NTUyOV19
 -->
