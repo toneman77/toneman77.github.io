@@ -38,12 +38,15 @@ Unique Combos : 24
 [back](#top)
 
 ## fmap _playername_<a name="fmap"></a>
-Shows the full combo map - including duplicates - for the currently active deck for the player _playername_. Puts items across the top, chars down the left, and combos made in the middle. White space implies no combo can be made.
+Shows the full combo map - including duplicates - for the currently active deck for the player _playername_. Puts items across the **top**, chars down the **left**, and combos made in the middle. **White space implies no combo can be made**.
+![enter image description here](https://i.imgur.com/OJxRPbf.png)
+[back](#top)
+
+## analyze _playername_<a name="analyze"></a>
 
 [back](#top)
 
-
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTU0MjM0MiwtNzQ0NTI3ODk2XX0=
+eyJoaXN0b3J5IjpbNjUyMDk0MTYyLC03NDQ1Mjc4OTZdfQ==
 -->
