@@ -12,8 +12,7 @@
 | box map | a map of the cards in the current box|
 
 ## examples
-
-TODO
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwNzU1NTI5XX0=
+eyJoaXN0b3J5IjpbLTgzMTA3NDg3Niw2MzA3NTU1MjldfQ==
 -->
