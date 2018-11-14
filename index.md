@@ -16,8 +16,10 @@
 | rm | shows who is missing for the current round in rumble event [more](rumble) |
 | lookup _guildname_ | gives you information of the guild _guildname_ [more](looking-up-stuff) |
 | whois _playername_ | displays information about the player _playername_ [more](looking-up-stuff) |
+
+xoxo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3MDYzMjkzLDE5MjQyMjkwMzIsMTI4Mj
-gzNTAzMCwxOTYzNzY4NDQzLDE0OTQyNTU2MTQsLTIwNjAxMzc1
-MTNdfQ==
+eyJoaXN0b3J5IjpbLTEyMDk5MzIzMDksNTk3MDYzMjkzLDE5Mj
+QyMjkwMzIsMTI4MjgzNTAzMCwxOTYzNzY4NDQzLDE0OTQyNTU2
+MTQsLTIwNjAxMzc1MTNdfQ==
 -->
