@@ -11,10 +11,9 @@
 | char _guildmate_    | TODO |
 | puck _guildmate_    | TODO |
 
-
-
+## examples
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjE3MDM5NiwtMTIzNTgyNjMwNF19
+eyJoaXN0b3J5IjpbNDA3MTE3NjQzLC0xMjM1ODI2MzA0XX0=
 -->
