@@ -55,61 +55,64 @@ same as fmap but with duplicate of the same card filtered out.
 ## stat _playername_<a name="stat"></a>
 
 Randomly draws 10,000 hands and gives you statistics about that combos drawn. 61.91% sturdy means that 61.91% of the hands drawn had a combo with the sturdy skill. 88.58% of the time, a combo could be made. 70.38% of the time, a PC appeared in the opening hand.
-I drew 10000 5-card hands
-The following stats were found..
-34.2% Bad Tina
-20.59% Longhorn Bobby
-20.53% Running Back Hank
-20.26% Sandwitch
-20.11% Mommy Mummy
-20.05% Teagle
-19.33% Nurse Tina
-16.98% Devil Hank
-16.89% Devil Bobby
-12.14% Doghouse Bobby
-12.05% Cupid Bobby
-11.69% Medieval Hank
-11.47% Sex Ed Peter
-11.26% Lady Bird
-10.98% Zac Sawyer
-10.97% Swim Teacher Bob
-10.54% Gene It On
-9.19% Clobberella
-8.89% Baby Duck Stewie
-8.65% Dr. Bobbenstein
-**Showing top 20 combos
 
-76.8% punch
-63.87% cheer
-60.95% crazed
-54.6% jab
-51.72% leech
-50.49% boost
-48.5% payback
-46.76% healall
-46.68% hijack
-46.47% heal
-46.0% gas
-38.01% motivate
-35.75% cripple
-34.35% shield
-31.67% bomb
-29.27% shieldall
-28.43% sturdy
-26.46% crippleall
-18.48% recover
-16.38% bodyguard
-12.75% cheerall
+    I drew 10000 5-card hands
+    The following stats were found..
+    34.2% Bad Tina
+    20.59% Longhorn Bobby
+    20.53% Running Back Hank
+    20.26% Sandwitch
+    20.11% Mommy Mummy
+    20.05% Teagle
+    19.33% Nurse Tina
+    16.98% Devil Hank
+    16.89% Devil Bobby
+    12.14% Doghouse Bobby
+    12.05% Cupid Bobby
+    11.69% Medieval Hank
+    11.47% Sex Ed Peter
+    11.26% Lady Bird
+    10.98% Zac Sawyer
+    10.97% Swim Teacher Bob
+    10.54% Gene It On
+    9.19% Clobberella
+    8.89% Baby Duck Stewie
+    8.65% Dr. Bobbenstein
+    **Showing top 20 combos
+    
+    76.8% punch
+    63.87% cheer
+    60.95% crazed
+    54.6% jab
+    51.72% leech
+    50.49% boost
+    48.5% payback
+    46.76% healall
+    46.68% hijack
+    46.47% heal
+    46.0% gas
+    38.01% motivate
+    35.75% cripple
+    34.35% shield
+    31.67% bomb
+    29.27% shieldall
+    28.43% sturdy
+    26.46% crippleall
+    18.48% recover
+    16.38% bodyguard
+    12.75% cheerall
+    
+    2.32% all char
+    1.5% all item
+    0.0% all pc
+    96.18% ≥1 combo
+    3.82% no combo
+    0.0% ≥1 pc
 
-2.32% all char
-1.5% all item
-0.0% all pc
-96.18% ≥1 combo
-3.82% no combo
-0.0% ≥1 pc
 [back to top](#top)
 
 [back](index)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MjU3NjQwLC03NDQ1Mjc4OTZdfQ==
+eyJoaXN0b3J5IjpbLTE2NTUxMDg3MTQsLTc0NDUyNzg5Nl19
 -->
