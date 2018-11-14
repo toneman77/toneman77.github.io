@@ -32,11 +32,14 @@ Characters : 10
 Items : 10
 Precombos : 5
 Unique Combos : 24
+
+![enter image description here](https://i.imgur.com/tnzfbHU.png)
+![enter image description here](https://i.imgur.com/OSSi7nv.png)
 [back](#top)
 
 TODO²
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NzMzOTI1OSwtNzQ0NTI3ODk2XX0=
+eyJoaXN0b3J5IjpbMTQ1MjY5Nzk2MywtNzQ0NTI3ODk2XX0=
 -->
