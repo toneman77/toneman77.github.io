@@ -8,13 +8,13 @@
 | deck _guildmate_| TODO |
 | analyze _guildmate_| TODO |
 | char _guildmate_| TODO |
-| puck _guildmate_| TODO|
+| puck _guildmate_| TODO |
 
 
 | a | b |
 |--|--|
-| asdfas asdf | lorem ipsum ab |
+| asdfas asdf | lorem ipsum abc |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODMxMjUyNSwtMTIzNTgyNjMwNF19
+eyJoaXN0b3J5IjpbMjAzNjM3NzUyOCwtMTIzNTgyNjMwNF19
 -->
