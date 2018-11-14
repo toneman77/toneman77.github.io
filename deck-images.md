@@ -1,9 +1,10 @@
 # deck images<a name="top"></a>
-* [deck]()
-* [analyze]()
-* [fmap]()
-* [cmap]()
-* [stat]()
+Here are some examples of the commands that produce the pretty maps.
+* [deck](#deck)
+* [analyze](#analyze)
+* [fmap](#fmap)
+* [cmap](#cmap)
+* [stat](#stat)
 
 ## deck _playername_<a name="deck"></a>
 shows the currently active deck of guildmate _playername_
@@ -44,6 +45,8 @@ Shows the full combo map - including duplicates - for the currently active deck 
 
 ## cmap _playername_<a name="cmap"></a>
 same as fmap but with duplicate of the same card filtered out.
+
+¯\_(ツ)_/¯
 
 [back to top](#top)
 
@@ -106,5 +109,5 @@ The following stats were found..
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTEyNzcyMDksLTc0NDUyNzg5Nl19
+eyJoaXN0b3J5IjpbLTE5MTQzODA4OTQsLTc0NDUyNzg5Nl19
 -->
