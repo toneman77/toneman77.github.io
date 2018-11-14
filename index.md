@@ -1,6 +1,7 @@
 # zbot docs
 
 ## most used commands
+
 |command|result  |
 |--|--|
 | **docs** | link to the helpful documentation|
@@ -16,6 +17,6 @@
 |lookup _guildname_| gives you information of the guild _guildname_ [more](looking-up-stuff)|
 |whois _playername_ | displays information about the player _playername_ [more](looking-up-stuff)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjgzNTAzMCwxOTYzNzY4NDQzLDE0OT
-QyNTU2MTQsLTIwNjAxMzc1MTNdfQ==
+eyJoaXN0b3J5IjpbMTkyNDIyOTAzMiwxMjgyODM1MDMwLDE5Nj
+M3Njg0NDMsMTQ5NDI1NTYxNCwtMjA2MDEzNzUxM119
 -->
