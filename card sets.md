@@ -15,8 +15,10 @@
 ### in<a name="exin"></a>
 |command|what it does|
 |---|---|
-|in futurama | all futurama
+|in futurama | all cards of the show **futurama** |
+|in disguised | all cards with the **disguised** trait |
+|in punch | all card
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODU1NjIxNywtMTExMjQ0OTQ3Niw2Mz
-A3NTU1MjldfQ==
+eyJoaXN0b3J5IjpbNjc5MzMwNjA1LDE0MDg1NTYyMTcsLTExMT
+I0NDk0NzYsNjMwNzU1NTI5XX0=
 -->
