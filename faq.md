@@ -26,21 +26,17 @@
 
  * Do I have to use the guild chat with Zbot in order to use it?
 
->**No**, if you don't want to flood the chat with Zbot stuff, you can just ask Zbot directly with your pm chat. Zbot will give you all the same information in that chat, as it would in the group chat.
+>**No**, if you don't want to flood the chat with Zbot stuff, you can just ask Zbot directly with your pm chat. Zbot will give you all the same information in that chat, as it would in the group chat. 
 
-----------------------------------------------
+ * This is really confusing, how am I going to learn all of these commands?
 
-Q: This is really confusing, how am I going to learn all of these commands?
+>Don't worry about it! Ask a guildmate who uses Zbot and I'm sure they'll help you. It's **really** not super hard and most people only ever use a few commands, anyway. Also, if you're overwhelmed with Zbot, then you definitely don't have to use it.
 
-A: Don't worry about it! Ask a guildmate who uses Zbot and I'm sure they'll help you. It's really not super hard and most people only ever use a few commands, anyway. Also, if you're overwhelmed with Zbot, then you definitely don't have to use it.
+ * Why do some commands work for some people but not others?
 
-----------------------------------------------
+>There are two very different systems in play here: Add codes and registry.
 
-Q: Why do some commands work for some people but not others?
-
-A: There are two very different systems in play here: Add codes and registry.
-
-Add Codes:
+    * Add Codes:
 
 If someone has added you with a code, then you can access your deck data through their account. Fmap yourname tells the person who added you to start a practice battle against you. From this practice battle, your deck information can be acquired. The account cannot fight you and magically see your inventory, research information, combo mastery, decks 1-5, etc... ONLY ACTIVE DECK INFO
 
@@ -55,5 +51,5 @@ Special thanks to Matheux{SupAH-L} for writing this FAQ for me.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxNTEyNjI5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTMyNTc5NDc2NSw3MzA5OTgxMTZdfQ==
 -->
