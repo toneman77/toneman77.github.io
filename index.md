@@ -29,10 +29,13 @@ since i dont have a menu set up so far:
 [leaderboard](leaderboard)
 [looking up stuff](looking-up-stuff)
 [multiple accounts](multiple-accounts)
-[teh awesum](registered-c)
+[teh awesum](registered-commands)
+[rumble](rumble)
+[siege](siege)
+[troubleshoot](troubleshoot)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTk0MTI3NSwtMTIwOTkzMjMwOSw1OT
+eyJoaXN0b3J5IjpbLTI4OTg2ODA1MywtMTIwOTkzMjMwOSw1OT
 cwNjMyOTMsMTkyNDIyOTAzMiwxMjgyODM1MDMwLDE5NjM3Njg0
 NDMsMTQ5NDI1NTYxNCwtMjA2MDEzNzUxM119
 -->
