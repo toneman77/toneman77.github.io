@@ -12,9 +12,10 @@
 | puck _guildmate_    	| TODO 											|
 
 ## examples
+TODO
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY2ODg0OTUsNDA3MTE3NjQzLC0xMj
-M1ODI2MzA0XX0=
+eyJoaXN0b3J5IjpbLTg2NzM4NzIyMywtMTYwNjY4ODQ5NSw0MD
+cxMTc2NDMsLTEyMzU4MjYzMDRdfQ==
 -->
