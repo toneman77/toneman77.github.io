@@ -1,8 +1,11 @@
 # registered commands
 xo
 ## zbot admin
+
 these are commands mainly used by the person that _manages_ zbot for the whole guild
+
 ### room stuff
+
 | command 				| what it does |
 | -- | -- |
 | list rooms 			| list all zbot rooms that are connected to the LINE account 	|
@@ -10,6 +13,7 @@ these are commands mainly used by the person that _manages_ zbot for the whole g
 | rem room _id_ 		| remove the room with the id _id_ from the list of rooms 		|
 
 ### user stuff
+
 | command | what it does |
 | -- | -- |
 | add user _add code_ _level_ _ingamename_ | add a user. That user has to generate a code with the [add me TODO](TODO) command before. [example](#exadduser). [about levels TODO](TODO) |
@@ -17,6 +21,7 @@ these are commands mainly used by the person that _manages_ zbot for the whole g
 | rem user _id_ 	| removes the user with the id _id_ (see above: **list user**) and revokes the access rights |
 
 ## utility stuff
+
 | command | what it does |
 | -- | -- |
 | update guild | updates your guild info and access after **changing guilds** |
@@ -24,7 +29,9 @@ these are commands mainly used by the person that _manages_ zbot for the whole g
 | unlock | once you used the **lock** command all zbot commands that user practice battles (see [here TODO](TODO)) are blocked. This commands unlocks all those commands again |
 
 ## registered deck commands
+
 this is the stuff beyond the usual fmapping. None of these commands need you to change the deck in-game. Since you are registered you just use the correct deck number _#_
+
 | command | what it does |
 |--|--|
 | **d** | shows a list of decks and the name you chose for that deck |
@@ -39,7 +46,9 @@ this is the stuff beyond the usual fmapping. None of these commands need you to 
 | smap _#_ | **fmap** plus swole bonus for deck number _#_ |
 
 ## inventory commands
+
 The commands that unlock the full potential
+
 | command | what it does |
 |--|--|
 | mi _filter_ | **m**y **i**nventory. shows the inventory filtere by [a filter TODO](#filter). [example TODO](TODO) |
@@ -48,14 +57,16 @@ The commands that unlock the full potential
 | mcm | **m**y **c**ombo **m**astery: shows all bought combo masteries |
 
 ### filters
+
 available filters:
 > char leg item pc trait show skill
 
 ## examples
+
 TODO
 
 > [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjU0MzkzNywtMjAwMjM0NDM2Niw4OT
-IxNjM4NDZdfQ==
+eyJoaXN0b3J5IjpbMTAwODMwNTQ2MywxNzA2NTQzOTM3LC0yMD
+AyMzQ0MzY2LDg5MjE2Mzg0Nl19
 -->
