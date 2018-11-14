@@ -1,4 +1,5 @@
 # deck images<a name="top"></a>
+
 Here are some examples of the commands that produce the pretty maps.
 * [deck](#deck)
 * [analyze](#analyze)
@@ -7,6 +8,7 @@ Here are some examples of the commands that produce the pretty maps.
 * [stat](#stat)
 
 ## deck _playername_<a name="deck"></a>
+
 shows the currently active deck of guildmate _playername_
 
 ![enter image description here](https://i.imgur.com/zblzoSy.png)
@@ -114,5 +116,6 @@ Randomly draws 10,000 hands and gives you statistics about that combos drawn. 61
 [back](index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTUxMDg3MTQsLTc0NDUyNzg5Nl19
+eyJoaXN0b3J5IjpbNTcwODY2NDIsLTE2NTUxMDg3MTQsLTc0ND
+UyNzg5Nl19
 -->
