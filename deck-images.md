@@ -16,25 +16,27 @@ shows the currently active deck of guildmate _playername_
 ## analyze _playername_<a name="analyze"></a>
 
 Deck analysis for the currently active deck of play _playername_. Gives number of items that combo with char and vice versa; shows char/item/pc count. Two images displayed: one of deck, one of unique combos made by deck.
->Characters
-Bob (8/10)
-Hank Hill (10/10)
-Leela (6/10)
-Peggy (8/10)
-Philip J. Fry (10/10)
-Stan (6/10)
-Items
-Antichrist (8/10)
-Bazonga Bazooka (9/10)
-Deers with Guns (10/10)
-Doomsday Device (9/10)
-Long Stick with Sharp Rock (8/10)
-Characters : 10
-Items : 10
-Precombos : 5
-Unique Combos : 24
 
-![enter image description here](https://i.imgur.com/tnzfbHU.png)
+    Characters
+    Bob (8/10)
+    Hank Hill (10/10)
+    Leela (6/10)
+    Peggy (8/10)
+    Philip J. Fry (10/10)
+    Stan (6/10)
+    Items
+    Antichrist (8/10)
+    Bazonga Bazooka (9/10)
+    Deers with Guns (10/10)
+    Doomsday Device (9/10)
+    Long Stick with Sharp Rock (8/10)
+    Characters : 10
+    Items : 10
+    Precombos : 5
+    Unique Combos : 24
+   
+   ![enter image description here](https://i.imgur.com/tnzfbHU.png)
+   
 ![enter image description here](https://i.imgur.com/OSSi7nv.png)
 [back to top](#top)
 
@@ -53,7 +55,7 @@ same as fmap but with duplicate of the same card filtered out.
 ## stat _playername_<a name="stat"></a>
 
 Randomly draws 10,000 hands and gives you statistics about that combos drawn. 61.91% sturdy means that 61.91% of the hands drawn had a combo with the sturdy skill. 88.58% of the time, a combo could be made. 70.38% of the time, a PC appeared in the opening hand.
->I drew 10000 5-card hands
+I drew 10000 5-card hands
 The following stats were found..
 34.2% Bad Tina
 20.59% Longhorn Bobby
@@ -109,5 +111,5 @@ The following stats were found..
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQzODA4OTQsLTc0NDUyNzg5Nl19
+eyJoaXN0b3J5IjpbMTA5MjU3NjQwLC03NDQ1Mjc4OTZdfQ==
 -->
