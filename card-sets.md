@@ -25,15 +25,15 @@
 ### pc<a name="expc"></a>
 | command | what it does |
 |---|---|
-| pc futurama | all PC cards of the show **futurama** |
-| pc disguised | all PC cards with the **disguised** trait |
-| pc punch | all PC cards with the **punch** skill |
-| pc bb cripple| all PC cards of the show **Bob's burgers** with the skill **cripple** |
+| pc futurama          | all PC cards of the show **futurama** |
+| pc disguised         | all PC cards with the **disguised** trait |
+| pc punch             | all PC cards with the **punch** skill |
+| pc bb cripple        | all PC cards of the show **Bob's burgers** with the skill **cripple** |
 | pc leech sturdy koth | all PC cards of the show **king of the hill** with the skill **sturdy** and the skill **leech** |
 
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3MjI4Mzg2LDQ1Mzg2NTkzNiwxMjQxOD
-UwMzU4XX0=
+eyJoaXN0b3J5IjpbLTc2MDczNDQxNCw0NTM4NjU5MzYsMTI0MT
+g1MDM1OF19
 -->
