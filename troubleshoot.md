@@ -5,22 +5,25 @@ Something not working? Type
 
 to zbot and follow the tips below.
 
-## Line ID: Valid
-### Access level 0-2
+>Line ID: Valid
+
+* Access level 0-2
 No valid LINE ID? Zbot is a LINE@ offical account and you must accept their terms before you can use it. After acceptance, LINE will issue you an ID and zbot can work for you. Friending the bot will implicitly accept these (I believe this only works for mobile)
 
-N/a
+>User ID: 7415638
 
-User ID: 7415638
-
+* Access level 0-2 
 This ID must belong to the person who added you. If it's incorrect, give your add code to a registered person within your guild.
 
+* Access level 3
 The user ID is shown in game when you click on your profile. This ID must belong to you If the ID is not yours, then you registered the wrong info. Please check the comment below for more details.
 
-User Name: Zebleer
+>User Name: Zebleer
 
+* Access level 0-2
 This name should be yours. If not, the person who added you has typed your name wrong. Have them re-add you.
 
+* Access level 3
 This name should be yours. If not, you've registered the wrong info. Be careful using 'konglogin' or appeternal.com/convert. Since the multiple account issue, some Kong accounts have multiple AT accounts. When you register, the first value MUST match your in-game player ID. If it doesn't, then it is wrong.
 
 <
@@ -42,5 +45,5 @@ Level 2 commands will work based on the room. Level 3 commands will work based o
 
 > [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MjIwNjUzOCwtMTY1MjM1NjUxMF19
+eyJoaXN0b3J5IjpbMTQzNTY0NTYwNSwtMTY1MjM1NjUxMF19
 -->
