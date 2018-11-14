@@ -14,7 +14,8 @@
 ## examples
 ### in
 |command|what it does|
-|---|
+|---|---|
+|in futurama |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODk3NTI0Myw2MzA3NTU1MjldfQ==
+eyJoaXN0b3J5IjpbLTExMTI0NDk0NzYsNjMwNzU1NTI5XX0=
 -->
