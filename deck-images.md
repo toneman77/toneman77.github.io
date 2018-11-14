@@ -37,9 +37,13 @@ Unique Combos : 24
 ![enter image description here](https://i.imgur.com/OSSi7nv.png)
 [back](#top)
 
-TODO²
+## fmap _playername_<a name="fmap"></a>
+Shows the full combo map - including duplicates - for the currently active deck for the player _playername_. Puts items across the top, chars down the left, and combos made in the middle. White space implies no combo can be made.
+
+[back](#top)
+
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjY5Nzk2MywtNzQ0NTI3ODk2XX0=
+eyJoaXN0b3J5IjpbLTU5NTU0MjM0MiwtNzQ0NTI3ODk2XX0=
 -->
