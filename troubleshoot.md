@@ -34,16 +34,19 @@ If konglogin or eternal's app don't work, you may be forced into using the packe
 * Access level 0-2
 This guild should be yours. If not, give your code to a registered person within your guild.
 
+* Access level 3
 If this says null or is not your guild, type 'update guild'. If it says you're not in a guild and you know you are, then you've registered the wrong info. Read the tip above this for more info.
 
-You are speaking in a room that has been added
+>You are speaking in a room that has been added
 
+* Access level 0-2
 If you've been added, then the bot will grab the account of the person whom added you. If you have not been added, it will grab the info of the room.
 
+* Access level 3
 Level 2 commands will work based on the room. Level 3 commands will work based on your own account. (level 3 commands are those under 'reg')
 
 
 > [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1NDQxNDA5LC0xNjUyMzU2NTEwXX0=
+eyJoaXN0b3J5IjpbMTA4NDE5MTcwNiwtMTY1MjM1NjUxMF19
 -->
