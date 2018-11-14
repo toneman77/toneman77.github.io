@@ -23,4 +23,5 @@
 <td>shows <em>guildmate</em>’s character and item cards in a map excluding PCs</td>
 </tr>
 </tbody>
-</table>
+</table><p>t</p>
+
