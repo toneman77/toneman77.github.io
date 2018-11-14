@@ -5,7 +5,7 @@ these are commands mainly used by the person that _manages_ zbot for the whole g
 | command | what it does |
 | -- | -- |
 | list rooms | list all zbot rooms that are connected to the LINE account |
-| add room _roomname_ | adds this room to the admin's list of rooms |
+| add room _roomname_ | adds this room to the admin's list of rooms  |
 | rem room _id_ | remove the room with the id _id_ from the list of rooms |
 
 ### user stuff
@@ -54,5 +54,6 @@ TODO
 
 > [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDIzNDQzNjYsODkyMTYzODQ2XX0=
+eyJoaXN0b3J5IjpbNjE1MjQ1NjA0LC0yMDAyMzQ0MzY2LDg5Mj
+E2Mzg0Nl19
 -->
