@@ -6,6 +6,8 @@ Here are some examples of the commands that produce the pretty maps.
 * [fmap](#fmap)
 * [cmap](#cmap)
 * [stat](#stat)
+* [bmap](#TODO)
+* [smap](#TODO)
 
 ## deck _playername_<a name="deck"></a>
 
@@ -120,6 +122,6 @@ Hi
 [back](index)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU2NDg3NTQ1LC0xNjU1MTA4NzE0LC03ND
-Q1Mjc4OTZdfQ==
+eyJoaXN0b3J5IjpbLTExMTQwNjAzNDIsNTU2NDg3NTQ1LC0xNj
+U1MTA4NzE0LC03NDQ1Mjc4OTZdfQ==
 -->
