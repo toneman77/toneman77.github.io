@@ -8,6 +8,8 @@ x
 | roster _guildname_ 	| show all players in guild _guildname_ |
 | ta50 _guildname_ 		| TODO (no idea) |
 | _guildname_ **v** _otherguildname_ | compare both guilds [example](#exv) |
+| mmr _rank_ | TODO |
+| smmr _rank_ |TODO |
 
 ## other stuff
 
@@ -36,6 +38,6 @@ x
 
 > [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDMyNTQwMDQsMjY5MzI2MTAsMTI4MT
-ExNTU1Ml19
+eyJoaXN0b3J5IjpbLTQ4NjU2MDE2MywtMTI0MzI1NDAwNCwyNj
+kzMjYxMCwxMjgxMTE1NTUyXX0=
 -->
