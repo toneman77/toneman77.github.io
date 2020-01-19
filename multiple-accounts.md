@@ -1,6 +1,8 @@
 # how to use multiple accounts
 The situation might arise where you are in charge of more than one account. For this multiple account support is built into zbot
 
+Prerequisite for **this** doc is that you already have at least one account registered already.
+
 TODO: more text here
 
 ## steps
@@ -31,5 +33,5 @@ The situation might arise where you have already 2 or more accounts linked to yo
 
 > [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzczMTAyMF19
+eyJoaXN0b3J5IjpbLTEwMzA3OTM4NDYsMTQxNzczMTAyMF19
 -->
