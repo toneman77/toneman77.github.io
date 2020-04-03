@@ -12,6 +12,7 @@ If _guildmate_ is ommited your own account will be used.
 | analyze _guildmate_ 	| TODO 											|
 | char _guildmate_    	| TODO 											|
 | puck _guildmate_    	| TODO 											|
+
 TODO: mi, mif
 
 ## registered commands:
@@ -28,6 +29,6 @@ TODO
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Nzg2ODc2OSwtODY3Mzg3MjIzLC0xNj
+eyJoaXN0b3J5IjpbMTkwMjc3MDcwMSwtODY3Mzg3MjIzLC0xNj
 A2Njg4NDk1LDQwNzExNzY0MywtMTIzNTgyNjMwNF19
 -->
