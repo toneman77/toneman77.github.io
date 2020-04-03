@@ -6,7 +6,7 @@ If _guildmate_ is ommited your own account will be used.
 | command 				| what it does 									|
 | -- | -- |
 | fmap _guildmate_    	| show _guildmate_'s map of possible combos 	|
-| cmap _guildmate_    	| show _guildmate_'s combo map (no duplicates)	|
+| cmap _guildmate_    	| show _guildmate_'s **compact** combo map<br>(without duplicates)	|
 | map _guildmate_     	| analyze _guildmate_'s deck 					|
 | stat _guildmate_    	| TODO 											|
 | deck _guildmate_    	| TODO 											|
@@ -31,6 +31,6 @@ TODO
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODU1NjY2MDcsLTg2NzM4NzIyMywtMT
-YwNjY4ODQ5NSw0MDcxMTc2NDMsLTEyMzU4MjYzMDRdfQ==
+eyJoaXN0b3J5IjpbNDgwOTk3NzU3LC04NjczODcyMjMsLTE2MD
+Y2ODg0OTUsNDA3MTE3NjQzLC0xMjM1ODI2MzA0XX0=
 -->
