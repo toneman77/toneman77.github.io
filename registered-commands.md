@@ -34,6 +34,8 @@ these are commands mainly used by the person that _manages_ zbot for the whole g
 
 this is the stuff beyond the usual fmapping. None of these commands need you to change the deck in-game. Since you are registered you just use the correct deck number _#_
 
+**If** the deck number is omitted your currently active deck will be used.
+
 | command | what it does |
 |--|--|
 | **d** | shows a list of decks and the name you chose for that deck |
@@ -69,6 +71,6 @@ TODO
 
 > [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDAzODE1LDE3MDY1NDM5MzcsLTIwMD
-IzNDQzNjYsODkyMTYzODQ2XX0=
+eyJoaXN0b3J5IjpbMTg4NjE4OTk2MywxNDUwMDM4MTUsMTcwNj
+U0MzkzNywtMjAwMjM0NDM2Niw4OTIxNjM4NDZdfQ==
 -->
