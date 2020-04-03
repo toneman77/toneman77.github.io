@@ -12,12 +12,17 @@ If _guildmate_ is ommited your own account will be used.
 | char _guildmate_    	| TODO 											|
 | puck _guildmate_    	| TODO 											|
 
-registered
+registered commands:
+| command 				| what it does 									|
+| -- | -- |
+| mf | **m**y **f**map, including research|
+| smap | your fmap with additional **swole** buff
+
 ## examples
 TODO
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDAzNTUwNSwtODY3Mzg3MjIzLC0xNj
-A2Njg4NDk1LDQwNzExNzY0MywtMTIzNTgyNjMwNF19
+eyJoaXN0b3J5IjpbODQ2MjU0MTksLTg2NzM4NzIyMywtMTYwNj
+Y4ODQ5NSw0MDcxMTc2NDMsLTEyMzU4MjYzMDRdfQ==
 -->
