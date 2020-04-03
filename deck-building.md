@@ -23,7 +23,7 @@ TODO: mi, mif
 | mf | **m**y **f**map, including research|
 | smap | your fmap with additional **swole** buff |
 | bmap _trait_/_show_ | your fmap with 25% added attack and health (siege bonus)|
-| xmap | your fmap with the currents BGE buff added (where it can be applied)|
+| xmap | your fmap with the current's BGE buff added <br>(where it can be applied)|
 
 ## examples
 
@@ -31,6 +31,6 @@ TODO
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwOTk3NzU3LC04NjczODcyMjMsLTE2MD
-Y2ODg0OTUsNDA3MTE3NjQzLC0xMjM1ODI2MzA0XX0=
+eyJoaXN0b3J5IjpbMTAzNzI0ODczMiwtODY3Mzg3MjIzLC0xNj
+A2Njg4NDk1LDQwNzExNzY0MywtMTIzNTgyNjMwNF19
 -->
