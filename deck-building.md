@@ -5,8 +5,8 @@ If _guildmate_ is ommited your own account will be used.
 
 | command 				| what it does 									|
 | -- | -- |
-| fmap _guildmate_    	| show _guildmate_'s map of possible combos 	|
-| cmap _guildmate_    	| show _guildmate_'s **compact** combo map<br>(without duplicates)	|
+| fmap _guildmate_    	| **f**ull **map**.<br>show _guildmate_'s map of possible combos 	|
+| cmap _guildmate_    	| **c**ompact **map**.<br>show _guildmate_'s combo map without duplicates	|
 | map _guildmate_     	| analyze _guildmate_'s deck 					|
 | stat _guildmate_    	| TODO 											|
 | deck _guildmate_    	| TODO 											|
@@ -21,8 +21,8 @@ TODO: mi, mif
 | command 				| what it does 									|
 | -- | -- |
 | mf | **m**y **f**map, including research|
-| smap | your fmap with additional **swole** buff |
-| bmap _trait_/_show_ | your fmap with 25% added attack and health (siege bonus)|
+| smap | **s**wole **map**<br>your fmap with additional swole buff |
+| bmap _trait_/_show_ | **buffeyour fmap with 25% added attack and health (siege bonus)|
 | xmap | your fmap with the current's BGE buff added <br>(where it can be applied)|
 
 ## examples
@@ -31,6 +31,6 @@ TODO
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNzI0ODczMiwtODY3Mzg3MjIzLC0xNj
-A2Njg4NDk1LDQwNzExNzY0MywtMTIzNTgyNjMwNF19
+eyJoaXN0b3J5IjpbODQxMDcwNjM2LC04NjczODcyMjMsLTE2MD
+Y2ODg0OTUsNDA3MTE3NjQzLC0xMjM1ODI2MzA0XX0=
 -->
