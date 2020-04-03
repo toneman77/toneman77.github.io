@@ -15,12 +15,11 @@ If _guildmate_ is ommited your own account will be used.
 TODO: mi, mif
 
 ## registered commands:
-
 | command 				| what it does 									|
 | -- | -- |
 | mf | **m**y **f**map, including research|
 | smap | your fmap with additional **swole** buff |
-| bmap _trait_/_show_| your fmap with 25% added attack and health (siege bonus)|
+| bmap _trait_/_show_ | your fmap with 25% added attack and health (siege bonus)|
 | xmap | your fmap with the currents BGE buff added (where it can be applied)|
 
 
@@ -29,6 +28,6 @@ TODO
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQ3MDc0NjEsLTg2NzM4NzIyMywtMT
-YwNjY4ODQ5NSw0MDcxMTc2NDMsLTEyMzU4MjYzMDRdfQ==
+eyJoaXN0b3J5IjpbLTk5Nzg2ODc2OSwtODY3Mzg3MjIzLC0xNj
+A2Njg4NDk1LDQwNzExNzY0MywtMTIzNTgyNjMwNF19
 -->
