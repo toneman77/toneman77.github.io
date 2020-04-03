@@ -1,3 +1,6 @@
 # toneman77.github.io
 
-my first attempt at re-doing the zbot docs
+my attempt at competing and prettyfying the zbot docs
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTcyOTA2NjQxN119
+-->
