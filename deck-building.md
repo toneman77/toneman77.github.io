@@ -1,6 +1,7 @@
 # deck building
 If _guildmate_ is ommited your own account will be used.
 
+## normal stuff
 | command 				| what it does 									|
 | -- | -- |
 | fmap _guildmate_    	| show _guildmate_'s map of possible combos 	|
@@ -11,8 +12,10 @@ If _guildmate_ is ommited your own account will be used.
 | analyze _guildmate_ 	| TODO 											|
 | char _guildmate_    	| TODO 											|
 | puck _guildmate_    	| TODO 											|
+TODO: mi, mif
 
-registered commands:
+## registered commands:
+
 | command 				| what it does 									|
 | -- | -- |
 | mf | **m**y **f**map, including research|
@@ -26,6 +29,6 @@ TODO
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDExNDU2MiwtODY3Mzg3MjIzLC0xNj
-A2Njg4NDk1LDQwNzExNzY0MywtMTIzNTgyNjMwNF19
+eyJoaXN0b3J5IjpbLTIxNDQ3MDc0NjEsLTg2NzM4NzIyMywtMT
+YwNjY4ODQ5NSw0MDcxMTc2NDMsLTEyMzU4MjYzMDRdfQ==
 -->
