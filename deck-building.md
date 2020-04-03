@@ -1,4 +1,5 @@
 # deck building
+If _guildmate_ is ommited your own account will be used.
 
 | command 				| what it does 									|
 | -- | -- |
@@ -11,11 +12,12 @@
 | char _guildmate_    	| TODO 											|
 | puck _guildmate_    	| TODO 											|
 
+registered
 ## examples
 TODO
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzM4NzIyMywtMTYwNjY4ODQ5NSw0MD
-cxMTc2NDMsLTEyMzU4MjYzMDRdfQ==
+eyJoaXN0b3J5IjpbLTM3NDAzNTUwNSwtODY3Mzg3MjIzLC0xNj
+A2Njg4NDk1LDQwNzExNzY0MywtMTIzNTgyNjMwNF19
 -->
