@@ -9,7 +9,7 @@ x
 | whois _playername_ 				| show info about the player _playername_ |
 |cc cm| show today's combo masteries<br>and what cards make that combo|
 |pc cm| show today's combo masteries<br>if there's PCs of them|
-| ta50 _guildname_ 		| TODO (no idea) |
+| ta50 _guildname_ 		| top 50 SFC of |
 | _guildname_ **v** _otherguildname_ | compare both guilds [example](#exv) |
 | mmr _rank_ | TODO |
 | smmr _rank_ |TODO |
@@ -41,6 +41,6 @@ x
 
 > [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDAyOTEwMDEsLTQ4NjU2MDE2MywtMT
-I0MzI1NDAwNCwyNjkzMjYxMCwxMjgxMTE1NTUyXX0=
+eyJoaXN0b3J5IjpbMTk3MTM1MjQxMSwtNDg2NTYwMTYzLC0xMj
+QzMjU0MDA0LDI2OTMyNjEwLDEyODExMTU1NTJdfQ==
 -->
