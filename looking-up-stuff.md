@@ -9,7 +9,7 @@ x
 | whois _playername_ 				| show info about the player _playername_ |
 |cc cm| show today's combo masteries<br>and what cards make that combo|
 |pc cm| show today's combo masteries<br>if there's PCs of them|
-| ta50 _guildname_ 		| top 50 SFC of guild _guildname_|
+| ta50 _guildname_ 		| top 50 SFC of guild _guildname_<br> if _guildname_ is omitted your guild is used|
 | _guildname_ **v** _otherguildname_ | compare both guilds [example](#exv) |
 | mmr _rank_ | TODO |
 | smmr _rank_ |TODO |
@@ -18,7 +18,6 @@ x
 
 | command | what it does |
 |--|--|
-
 | _playername_ **pv** _otherplayer_ | compares the players _playername_ and _otherplayer_ [example](#expv) |
 | changes _guildname_ 				| shows changes in the roster of the guild _guildname_ |
 | dw 								| what players changed guilds in the dolphin class |
@@ -41,6 +40,7 @@ x
 
 > [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDU2NTcyODQsLTQ4NjU2MDE2MywtMT
-I0MzI1NDAwNCwyNjkzMjYxMCwxMjgxMTE1NTUyXX0=
+eyJoaXN0b3J5IjpbLTY4Njk3MjE4NiwtMTQwNTY1NzI4NCwtND
+g2NTYwMTYzLC0xMjQzMjU0MDA0LDI2OTMyNjEwLDEyODExMTU1
+NTJdfQ==
 -->
