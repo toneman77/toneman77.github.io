@@ -14,7 +14,7 @@ If _guildmate_ is ommited your own account will be used.
 | analyze _guildmate_ 	| TODO 											|
 | char _guildmate_    	| TODO 											|
 | puck _guildmate_    	| TODO 											|
-| mi _filter_ _filter_ | **m**y**i**nventory.<br> shows your inventory, filter by one or multiple filters|
+| mi _filter_ _filter_ | **m**y**i**nventory.<br> shows your inventory, filter by one or multiple filters. <br>[example](#mi_example)|
 
 TODO: mif
 
@@ -29,11 +29,11 @@ TODO: mif
 
 ## examples
 
-TODO
+### mi <a name="mi_example"></a>
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyMzY4MzU3LDk4NTEyNjM1NywtMTIyNj
-U5OTA1NywtMTMwNTYyNDg1MiwtODY3Mzg3MjIzLC0xNjA2Njg4
-NDk1LDQwNzExNzY0MywtMTIzNTgyNjMwNF19
+eyJoaXN0b3J5IjpbLTk4NjE4NTQ0Nyw5ODUxMjYzNTcsLTEyMj
+Y1OTkwNTcsLTEzMDU2MjQ4NTIsLTg2NzM4NzIyMywtMTYwNjY4
+ODQ5NSw0MDcxMTc2NDMsLTEyMzU4MjYzMDRdfQ==
 -->
