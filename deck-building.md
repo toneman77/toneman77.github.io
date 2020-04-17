@@ -30,10 +30,12 @@ TODO: mif
 ## examples
 
 ### mi <a name="mi_example"></a>
+* mi char ft:
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjE4NTQ0Nyw5ODUxMjYzNTcsLTEyMj
-Y1OTkwNTcsLTEzMDU2MjQ4NTIsLTg2NzM4NzIyMywtMTYwNjY4
-ODQ5NSw0MDcxMTc2NDMsLTEyMzU4MjYzMDRdfQ==
+eyJoaXN0b3J5IjpbLTE2MzUwMDgxMzUsLTk4NjE4NTQ0Nyw5OD
+UxMjYzNTcsLTEyMjY1OTkwNTcsLTEzMDU2MjQ4NTIsLTg2NzM4
+NzIyMywtMTYwNjY4ODQ5NSw0MDcxMTc2NDMsLTEyMzU4MjYzMD
+RdfQ==
 -->
