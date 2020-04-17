@@ -38,12 +38,12 @@ All these commands display your inventory, just filtered.
 * mi athletic punch q
   only show athletic cards that have the punch skill and are quad-fused
 * mi survive 50
- 
+  only show cards that can survive an attack with the value of 50. <br>**note:** this value combines health, sturdy and other things
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzgxMDY2MCwtMTYzNTAwODEzNSwtOT
-g2MTg1NDQ3LDk4NTEyNjM1NywtMTIyNjU5OTA1NywtMTMwNTYy
-NDg1MiwtODY3Mzg3MjIzLC0xNjA2Njg4NDk1LDQwNzExNzY0My
-wtMTIzNTgyNjMwNF19
+eyJoaXN0b3J5IjpbLTExNzQ4NjA5MDQsLTE2MzUwMDgxMzUsLT
+k4NjE4NTQ0Nyw5ODUxMjYzNTcsLTEyMjY1OTkwNTcsLTEzMDU2
+MjQ4NTIsLTg2NzM4NzIyMywtMTYwNjY4ODQ5NSw0MDcxMTc2ND
+MsLTEyMzU4MjYzMDRdfQ==
 -->
