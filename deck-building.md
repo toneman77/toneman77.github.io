@@ -30,12 +30,16 @@ TODO: mif
 ## examples
 
 ### mi <a name="mi_example"></a>
-* mi char ft:
+All these commands display your inventory, just filtered.
+* mi char ft
+  only show character cards from futurama
+* mi item disguised leg f
+  only show disguised item cards that are legendary and
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzUwMDgxMzUsLTk4NjE4NTQ0Nyw5OD
-UxMjYzNTcsLTEyMjY1OTkwNTcsLTEzMDU2MjQ4NTIsLTg2NzM4
-NzIyMywtMTYwNjY4ODQ5NSw0MDcxMTc2NDMsLTEyMzU4MjYzMD
-RdfQ==
+eyJoaXN0b3J5IjpbNjExNjIxNzUwLC0xNjM1MDA4MTM1LC05OD
+YxODU0NDcsOTg1MTI2MzU3LC0xMjI2NTk5MDU3LC0xMzA1NjI0
+ODUyLC04NjczODcyMjMsLTE2MDY2ODg0OTUsNDA3MTE3NjQzLC
+0xMjM1ODI2MzA0XX0=
 -->
