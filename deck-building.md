@@ -32,7 +32,7 @@ TODO: mif
 ### mi <a name="mi_example"></a>
 All these commands display your inventory, just filtered.
 * mi char ft
-  only show character cards from futurama
+  only show character cards from the show futurama
 * mi item disguised leg f
   only show disguised item cards that are legendary and fused
 * mi athletic punch q
@@ -42,8 +42,8 @@ All these commands display your inventory, just filtered.
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQ4NjA5MDQsLTE2MzUwMDgxMzUsLT
-k4NjE4NTQ0Nyw5ODUxMjYzNTcsLTEyMjY1OTkwNTcsLTEzMDU2
-MjQ4NTIsLTg2NzM4NzIyMywtMTYwNjY4ODQ5NSw0MDcxMTc2ND
-MsLTEyMzU4MjYzMDRdfQ==
+eyJoaXN0b3J5IjpbLTEzOTEwMDc5ODQsLTExNzQ4NjA5MDQsLT
+E2MzUwMDgxMzUsLTk4NjE4NTQ0Nyw5ODUxMjYzNTcsLTEyMjY1
+OTkwNTcsLTEzMDU2MjQ4NTIsLTg2NzM4NzIyMywtMTYwNjY4OD
+Q5NSw0MDcxMTc2NDMsLTEyMzU4MjYzMDRdfQ==
 -->
