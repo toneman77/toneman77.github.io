@@ -34,12 +34,16 @@ All these commands display your inventory, just filtered.
 * mi char ft
   only show character cards from futurama
 * mi item disguised leg f
-  only show disguised item cards that are legendary and
+  only show disguised item cards that are legendary and fused
+* mi athletic punch q
+  only show athletic cards that have the punch skill and are quad-fused
+* mi survive 50
+ 
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExNjIxNzUwLC0xNjM1MDA4MTM1LC05OD
-YxODU0NDcsOTg1MTI2MzU3LC0xMjI2NTk5MDU3LC0xMzA1NjI0
-ODUyLC04NjczODcyMjMsLTE2MDY2ODg0OTUsNDA3MTE3NjQzLC
-0xMjM1ODI2MzA0XX0=
+eyJoaXN0b3J5IjpbMTQwNzgxMDY2MCwtMTYzNTAwODEzNSwtOT
+g2MTg1NDQ3LDk4NTEyNjM1NywtMTIyNjU5OTA1NywtMTMwNTYy
+NDg1MiwtODY3Mzg3MjIzLC0xNjA2Njg4NDk1LDQwNzExNzY0My
+wtMTIzNTgyNjMwNF19
 -->
