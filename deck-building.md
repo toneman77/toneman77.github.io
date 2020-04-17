@@ -16,7 +16,7 @@ If _guildmate_ is ommited your own account will be used.
 | puck _guildmate_    	| TODO 											|
 | mi _filter_ _filter_ | **m**y**i**nventory.<br> shows your inventory, filter by one or multiple filters|
 
-TODO: mi, mif
+TODO: mif
 
 ## registered commands:
 
@@ -33,7 +33,7 @@ TODO
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg1MTI2MzU3LC0xMjI2NTk5MDU3LC0xMz
-A1NjI0ODUyLC04NjczODcyMjMsLTE2MDY2ODg0OTUsNDA3MTE3
-NjQzLC0xMjM1ODI2MzA0XX0=
+eyJoaXN0b3J5IjpbNTEyMzY4MzU3LDk4NTEyNjM1NywtMTIyNj
+U5OTA1NywtMTMwNTYyNDg1MiwtODY3Mzg3MjIzLC0xNjA2Njg4
+NDk1LDQwNzExNzY0MywtMTIzNTgyNjMwNF19
 -->
