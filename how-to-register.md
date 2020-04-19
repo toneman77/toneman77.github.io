@@ -18,14 +18,14 @@ Every AT account is given a token (api key). This token acts like a signature wh
 
 ### zbot method
 
-You can access the information directly through the bot provided you signed up through kongregate. It will not work if you login through facebook. Simply type: 
+You can access the information directly through the bot provided you signed up (for the game) through kongregate. It will not work if you login through facebook. Simply type: 
 >konglogin **yourusername yourpassword** 
 
 to zbot. Zbot will spit out two values. The first is the user id; the second is the API key.
 
 ### with a browser
 
-You can access the value through a web browser:
+You can access the value through a web browser (neccessary for facebook login accounts):
 
 1. Open chrome. Ctrl+shift+I will open the network monitor. (Ctrl+shift+e for Firefox)
 2. Open AT in the browser.
@@ -34,14 +34,8 @@ You can access the value through a web browser:
 
 -> Your key is 32 characters in length
 
-### Eternal method
-Eternal (creator of CAT bot) created a handy app to grab this information for you. Follow the link below, and input your login information there, and it will provide the needed values. **Synapse ID** is your user id; **synapse token** is your API key.
-
-Link to it [here](https://www.appeternal.com/CAT/convert)
-
-
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NjcxMjU3MCw1Nzk4NTE3MzIsMTQyMz
+eyJoaXN0b3J5IjpbMjEyNjkxMzM2MCw1Nzk4NTE3MzIsMTQyMz
 MyMTA3Miw3MzA5OTgxMTZdfQ==
 -->
