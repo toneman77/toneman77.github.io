@@ -2,15 +2,17 @@
 Add zbot as a friend on LINE, PM zbot and say:
 >register **user_id** **api_key**
 
-**If** zbot does not reply with a text "please update guild" then there is somethin wrong. Check if username and password are correct. 
+(use your user_id and api_key)
+
+**If zbot does not reply** with a text "please update guild" then there is somethin wrong. Check if username and password are correct. 
 
 (keep reading)
-## what is "user_id" and how do I get it?
+## what is "user_id"?
 User ID is your in-game player ID. You can see it when you log into AT and click on your profile.
 
 ## What is api_key?
 
-Every AT account is given a token (api key). This token acts like a signature when speaking to AT servers. If your user id and api key show up at AT servers, AT knows it's you and can answer requests.
+Every AT account is given a token (api key). This token acts like a signature when speaking to AT servers. If your user id and api key show up at AT servers, AT knows it's you and can answer requests (aka play the game).
 
 ## How do I get this stuff?
 
@@ -40,6 +42,6 @@ Link to it [here](https://www.appeternal.com/CAT/convert)
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDYwNTAyMjYsNTc5ODUxNzMyLDE0Mj
-MzMjEwNzIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTM0NjcxMjU3MCw1Nzk4NTE3MzIsMTQyMz
+MyMTA3Miw3MzA5OTgxMTZdfQ==
 -->
