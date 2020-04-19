@@ -2,8 +2,10 @@
 Add zbot as a friend on LINE, PM zbot and say:
 >register **user_id** **api_key**
 
+**If** zbot does not reply with a text "please update guild" then there is somethin wrong. Check if username and password are correct. 
+
 (keep reading)
-## what is "user_id"?
+## what is "user_id" and how do I get it?
 User ID is your in-game player ID. You can see it when you log into AT and click on your profile.
 
 ## What is api_key?
@@ -38,6 +40,6 @@ Link to it [here](https://www.appeternal.com/CAT/convert)
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5ODUxNzMyLDE0MjMzMjEwNzIsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEyMDYwNTAyMjYsNTc5ODUxNzMyLDE0Mj
+MzMjEwNzIsNzMwOTk4MTE2XX0=
 -->
