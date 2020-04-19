@@ -25,7 +25,7 @@ to zbot. Zbot will spit out two values. The first is the user id; the second is 
 
 ### with a browser
 
-You can access the value through a web browser (neccessary for facebook login accounts):
+You can access the value through a web browser on a desktop PC/laptop (neccessary for facebook login accounts):
 
 1. Open chrome. Ctrl+shift+I will open the network monitor. (Ctrl+shift+e for Firefox)
 2. Open AT in the browser.
@@ -36,6 +36,6 @@ You can access the value through a web browser (neccessary for facebook login ac
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjkxMzM2MCw1Nzk4NTE3MzIsMTQyMz
+eyJoaXN0b3J5IjpbMTg2NzgyNjQyOCw1Nzk4NTE3MzIsMTQyMz
 MyMTA3Miw3MzA5OTgxMTZdfQ==
 -->
