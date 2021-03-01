@@ -11,7 +11,6 @@ Add zbot as a friend on LINE, PM zbot and say:
 User ID is your in-game player ID. You can see it when you log into AT and click on your profile.
 
 ## What is api_key?
-
 Every AT account is given a token (api key). This token acts like a signature when speaking to AT servers. If your user id and api key show up at AT servers, AT knows it's you and can answer requests (aka play the game).
 
 ## How do I get this stuff?
@@ -36,6 +35,6 @@ You can access the value through a web browser on a desktop PC/laptop (neccessar
 
 [back](index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzgyNjQyOCw1Nzk4NTE3MzIsMTQyMz
-MyMTA3Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE1MzI4NDU2NTQsMTg2NzgyNjQyOCw1Nz
+k4NTE3MzIsMTQyMzMyMTA3Miw3MzA5OTgxMTZdfQ==
 -->
